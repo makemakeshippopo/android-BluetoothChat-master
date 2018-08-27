@@ -1,0 +1,4 @@
+#Tue Jun 19 12:43:04 JST 2018
+base.0=/Users/Murata/Desktop/android-BluetoothChat-master/Application/build/intermediates/transforms/dexMerger/debug/9
+path.0=classes.dex
+renamed.0=classes.dex

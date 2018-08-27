@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "611222762425",
+    "firebase_url": "https://moduletest001.firebaseio.com",
+    "project_id": "moduletest001",
+    "storage_bucket": "moduletest001.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611222762425:android:28b8c89c17dffa46",
+        "android_client_info": {
+          "package_name": "com.example.android.bluetoothchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611222762425-gi92q1jgjtqotecrtqlt55du7qmg3bmq.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "611222762425-gi92q1jgjtqotecrtqlt55du7qmg3bmq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVPdLQzEIwz-OOaI17kQhV2tpggYyVrRs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
